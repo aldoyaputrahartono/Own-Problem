@@ -2,9 +2,9 @@
 
 <p><strong>Deskripsi</strong></p>
 
-<p>Mus akan melakukan perjalanan untuk mencari pujaan hatinya. Ia sudah bertekad untuk mencari wanita idamannya itu walau sampai kemanapun. Perjalanannya membawanya sampai ke negara russia. Disana, sembari mencari sang pujaan hati Mus melihat satu benda unik yaitu boneka khas russia, atau yang lebih dikenal dengan nama <em>Matryoshka doll</em>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mus akan melakukan perjalanan untuk mencari pujaan hatinya. Ia sudah bertekad untuk mencari wanita idamannya itu walau sampai kemanapun. Perjalanannya membawanya sampai ke negara russia. Disana, sembari mencari sang pujaan hati Mus melihat satu benda unik yaitu boneka khas russia, atau yang lebih dikenal dengan nama <em>Matryoshka doll</em>.</p>
 
-<p style="text-align: center;"><img alt="" src="http://junior.npc.portal-schematics2019.com:9924/problems/89/statements/media/Mathryoshka.jpg" style="height:125px; width:250px" /></p>
+<p style="text-align: center;"><img alt="" src="Mathryoshka.jpg" style="height:125px; width:250px" /></p>
 
 <p>Yang membuat Mus tertarik adalah satu <em>M</em><em>atry</em><em>os</em><em>hka do</em><em>ll</em> dimasukkan ke dalam <em>Mathryoshka doll</em> lain yang berukuran lebih besar. Melihat itu, Mus jadi berniat untuk memberikan wanita yang sedang dicarinya ini beberapa <em>Matryoshka doll</em> ketika mereka bertemu nanti.</p>
 
